@@ -102,6 +102,8 @@ github.com/ugorji/go/codec v1.2.7 h1:YPXUKf7fYbp/y8xloBqZOw2qaVggbfwMlI8WM3wZUJ0
 github.com/ugorji/go/codec v1.2.7/go.mod h1:WGN1fab3R1fzQlVQTkfxVtIBhWDRqOviHU95kRgeqEY=
 github.com/ynsluhan/go-config v1.1.0 h1:op1/4VZ0O11atbiIRUFSl0nWyufPlNJIOm3Lnh3v1lA=
 github.com/ynsluhan/go-config v1.1.0/go.mod h1:Gi/h+0t1K5LGm2wIp5QDPqme7Gf1M+4ET8LfhRt0fO4=
+github.com/ynsluhan/go-config v1.1.2 h1:d+3SBVzFA1dnLV56GeawdeFRk8k9Md2Azyp3LZF6emU=
+github.com/ynsluhan/go-config v1.1.2/go.mod h1:Gi/h+0t1K5LGm2wIp5QDPqme7Gf1M+4ET8LfhRt0fO4=
 github.com/ynsluhan/go-r v0.0.0-20210724171007-fc2d3312c5e7 h1:cLGeX9uVkanryMxqp91xxY2vClYnae4yla81U1MXtO0=
 github.com/ynsluhan/go-r v0.0.0-20210724171007-fc2d3312c5e7/go.mod h1:LbPK0IbrivFM5aKtVx5bbJP4nskYOBLno5v1lzuAMzg=
 github.com/ynsluhan/go-redis-pool v1.0.5 h1:O68V49MozuSp7/mzyJJT28iRJXnNyVNjN/HgPTcn7YM=

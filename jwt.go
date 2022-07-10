@@ -8,8 +8,15 @@ import (
 	"log"
 	RedisPool "github.com/ynsluhan/go-redis-pool"
 	"github.com/ynsluhan/go-r"
+	config "github.com/ynsluhan/go-config"
 	"time"
 )
+
+var conf *config.Config
+
+func init() {
+	conf = config.GetConf()
+}
 
 var ctx = context.Background()
 
